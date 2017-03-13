@@ -1,7 +1,7 @@
 # kronometre.js
 
 # örnek kullanım
-```
+```html
 <span id="_kronometre"></span> // 04:13 gibi
 
 <script>
@@ -10,7 +10,7 @@ kronometre.baslat();
 ```
 
 # fonksiyonlar
-```
+```js
 kronometre.baslat();
 kronometre.durdur();
 kronometre.devam();
