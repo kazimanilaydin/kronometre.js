@@ -1,8 +1,8 @@
 /*!
-     * Kronometre.js by Ka20x
+     * Kronometre.js by kazimanilaydin
      * https://github.com/kazimanilaydin/kronometre.js
      *
-     * Copyright 2017, Kazým Anýl AYDIN
+     * Copyright 2017, KazÄ±m AnÄ±l AYDIN
      * 
      */
 
